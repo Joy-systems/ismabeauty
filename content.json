@@ -1,0 +1,199 @@
+{
+  "brand": {
+    "name": "is ma beauty",
+    "tagline": "L'excellence du detailing pour redonner vie à votre véhicule.",
+    "primaryColor": "#1A1A1A",
+    "accentColor": "#C5A059"
+  },
+  "nav": [
+    {
+      "label": "Services",
+      "href": "#services"
+    },
+    {
+      "label": "Pourquoi nous",
+      "href": "#features"
+    },
+    {
+      "label": "Avis",
+      "href": "#testimonials"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Detailing Premium",
+    "title": "Sublimez votre auto, préservez votre patrimoine.",
+    "subtitle": "Un nettoyage de précision, des finitions chirurgicales et une protection durable pour vos voitures de prestige et flottes d'entreprise.",
+    "primaryCta": {
+      "label": "Réserver un soin",
+      "href": "#contact"
+    },
+    "secondaryCta": {
+      "label": "Nos prestations",
+      "href": "#services"
+    },
+    "highlights": [
+      "Résultat showroom garanti",
+      "Produits biodégradables",
+      "Soin manuel minutieux"
+    ]
+  },
+  "features": {
+    "title": "Une expertise sans compromis",
+    "subtitle": "Nous ne nous contentons pas de laver, nous restaurons l'éclat d'origine.",
+    "items": [
+      {
+        "icon": "Sparkles",
+        "title": "Précision millimétrée",
+        "description": "Chaque interstice et chaque pli de cuir est traité avec des outils de précision pour un intérieur zéro défaut."
+      },
+      {
+        "icon": "Shield",
+        "title": "Protection longue durée",
+        "description": "Application de cires haut de gamme et de traitements hydrophobes pour protéger votre carrosserie des agressions auto."
+      },
+      {
+        "icon": "Clock",
+        "title": "Respect des délais",
+        "description": "Nous optimisons notre temps d'intervention pour immobiliser votre véhicule le moins longtemps possible."
+      },
+      {
+        "icon": "Award",
+        "title": "Finition Concours",
+        "description": "Un sens du détail poussé à l'extrême pour un rendu visuel identique à une sortie de concessionnaire."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Spécialiste Pro",
+        "description": "Nettoyage intensif de camionnettes de société pour valoriser votre image de marque auprès de vos clients."
+      },
+      {
+        "icon": "Heart",
+        "title": "Soin des matières",
+        "description": "Traitements spécifiques pour cuirs, alcantara, plastiques moussés et métaux précieux sans risque d'abrasion."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos services",
+    "subtitle": "Des programmes adaptés selon l'état et les besoins de votre véhicule.",
+    "items": [
+      {
+        "title": "Soin Signature",
+        "description": "Un nettoyage complet intérieur/extérieur pour retrouver le plaisir de conduire.",
+        "price": "À partir de 149€",
+        "features": [
+          "Lavage manuel haute précision",
+          "Aspiration en profondeur",
+          "Shampoing des tapis et tissus",
+          "Nettoyage des jantes et pneus"
+        ]
+      },
+      {
+        "title": "Excellence Detailing",
+        "description": "La rénovation esthétique ultime pour véhicules de sport ou de collection.",
+        "price": "À partir de 350€",
+        "features": [
+          "Décontamination carrosserie",
+          "Polissage lustrant machine",
+          "Soin nourrissant des cuirs",
+          "Protection cire de carnauba"
+        ]
+      },
+      {
+        "title": "Pack Business Pro",
+        "description": "La solution pour les utilitaires et camionnettes de flotte professionnelle.",
+        "price": "Sur devis",
+        "features": [
+          "Désinfection complète habitacle",
+          "Nettoyage zone de chargement",
+          "Retrait des traces d'adhésifs",
+          "Facturation mensuelle possible"
+        ]
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": "1200+",
+      "label": "Véhicules traités"
+    },
+    {
+      "value": "99%",
+      "label": "Clients satisfaits"
+    },
+    {
+      "value": "08+",
+      "label": "Ans d'expérience"
+    },
+    {
+      "value": "150",
+      "label": "Points de contrôle"
+    }
+  ],
+  "testimonials": {
+    "title": "Ils nous font confiance",
+    "items": [
+      {
+        "quote": "Ma voiture avait 10 ans de vie quotidienne, elle est ressortie comme neuve. Le travail sur les cuirs est tout simplement bluffant. Un vrai magicien de l'esthétique auto.",
+        "author": "Jean-Marc L.",
+        "role": "Propriétaire d'une Porsche 911"
+      },
+      {
+        "quote": "Pour notre flotte de camionnettes, is ma beauty est un partenaire clé. La propreté de nos véhicules est le premier reflet de notre professionnalisme.",
+        "author": "Sarah M.",
+        "role": "Directrice d'une PME de logistique"
+      },
+      {
+        "quote": "Un niveau de finition que je n'avais jamais vu ailleurs. Même les recoins les plus inaccessibles sont impeccables. Je recommande les yeux fermés.",
+        "author": "Thomas R.",
+        "role": "Passionné d'automobile"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "question": "Quelle est la durée d'une prestation ?",
+        "answer": "La durée varie de 3 heures pour un soin classique à 2 jours complets pour un detailing de prestige avec polissage. Nous vous donnons une estimation précise lors du devis."
+      },
+      {
+        "question": "Proposez-vous un service à domicile ?",
+        "answer": "Nous privilégions le travail dans notre atelier de précision pour garantir un environnement contrôlé (lumière, humidité, poussière), mais des interventions flash sont possibles sur site pro."
+      },
+      {
+        "question": "Utilisez-vous des produits agressifs ?",
+        "answer": "Absolument pas. Nous utilisons exclusivement des produits pH neutre, biodégradables et spécifiques à chaque support pour garantir l'intégrité de vos matériaux sur le long terme."
+      },
+      {
+        "question": "Comment prendre rendez-vous ?",
+        "answer": "Vous pouvez nous contacter par téléphone ou via le formulaire ci-dessous. Nous effectuons généralement un pré-diagnostic visuel pour vous conseiller l'offre la plus pertinente."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à transformer votre véhicule ?",
+    "subtitle": "Réservez votre créneau dès aujourd'hui et offrez à votre auto le traitement qu'elle mérite.",
+    "button": {
+      "label": "Obtenir un devis gratuit",
+      "href": "#contact"
+    }
+  },
+  "contact": {
+    "email": "contact@ismabeauty.fr",
+    "phone": "01 23 45 67 89",
+    "address": "15 Avenue des Artisans, 75017 Paris"
+  },
+  "footer": {
+    "tagline": "L'art de la perfection automobile par is ma beauty.",
+    "copyright": "© 2026 is ma beauty. Tous droits réservés."
+  }
+}
